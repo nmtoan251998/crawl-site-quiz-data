@@ -1,0 +1,602 @@
+[
+	{
+		"question": " 1. When working with character arrays, always reserve enough array elements to hold the string AND its null-terminating character (\\0).  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. In C++, 14 % 4 =  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 4",
+				"isCorrect": false
+			},
+			{
+				"content": "E. 5",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. Variables that are declared, but not initialized, contain  ",
+		"answer": [
+			{
+				"content": "A. blank spaces",
+				"isCorrect": false
+			},
+			{
+				"content": "B. zeros",
+				"isCorrect": false
+			},
+			{
+				"content": "C. \"garbage\" values",
+				"isCorrect": false
+			},
+			{
+				"content": "D. nothing - they are empty",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. Array indexing always starts with the number  ",
+		"answer": [
+			{
+				"content": "A. \\0",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 0",
+				"isCorrect": false
+			},
+			{
+				"content": "E. 3",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. A character variable may contain up to seven letters.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. All strings end with a null zero in memory.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. In C++. 5 / 2 =  ",
+		"answer": [
+			{
+				"content": "A. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2.5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. none of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. Variables with names that describe the data stored at that particular memory location are called  ",
+		"answer": [
+			{
+				"content": "A. identifiers",
+				"isCorrect": false
+			},
+			{
+				"content": "B. constant variables",
+				"isCorrect": false
+			},
+			{
+				"content": "C. floating point variables",
+				"isCorrect": false
+			},
+			{
+				"content": "D. mnemonic variables",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. The name of a variable is known as its  ",
+		"answer": [
+			{
+				"content": "A. identifier",
+				"isCorrect": false
+			},
+			{
+				"content": "B. constant",
+				"isCorrect": false
+			},
+			{
+				"content": "C. data type",
+				"isCorrect": false
+			},
+			{
+				"content": "D. base",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. The special class developed by the College Board to be used with strings is  ",
+		"answer": [
+			{
+				"content": "A. apstrings.cpp",
+				"isCorrect": false
+			},
+			{
+				"content": "B. apstring.cpp",
+				"isCorrect": false
+			},
+			{
+				"content": "C. aparray.cpp",
+				"isCorrect": false
+			},
+			{
+				"content": "D. apletters.cpp",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. In C++, the % refers to  ",
+		"answer": [
+			{
+				"content": "A. percentages",
+				"isCorrect": false
+			},
+			{
+				"content": "B. modulus operator",
+				"isCorrect": false
+			},
+			{
+				"content": "C. division",
+				"isCorrect": false
+			},
+			{
+				"content": "D. data storage",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. A variable is given a value through  ",
+		"answer": [
+			{
+				"content": "A. osmosis",
+				"isCorrect": false
+			},
+			{
+				"content": "B. the cout statement",
+				"isCorrect": false
+			},
+			{
+				"content": "C. the  header file",
+				"isCorrect": false
+			},
+			{
+				"content": "D. an assignment statement",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. Variable names may begin with a number.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. When a data type must contain decimal numbers, assign the type  ",
+		"answer": [
+			{
+				"content": "A. int",
+				"isCorrect": false
+			},
+			{
+				"content": "B. char",
+				"isCorrect": false
+			},
+			{
+				"content": "C. double",
+				"isCorrect": false
+			},
+			{
+				"content": "D. long int",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. Mathematicians and computers interpret the equal sign (=) in the same way.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. setprecision requires the header file  ",
+		"answer": [
+			{
+				"content": "A. stdlib.h",
+				"isCorrect": false
+			},
+			{
+				"content": "B. iomanip.h",
+				"isCorrect": false
+			},
+			{
+				"content": "C. console.h",
+				"isCorrect": false
+			},
+			{
+				"content": "D. conio.h",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. The following statement is valid.    double price = 7,450.98;  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. All variables must be declared before they can be used.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. Character literals always have a length of one.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. If   char catname[15];  , which of the following is valid?  ",
+		"answer": [
+			{
+				"content": "A. catname[15] = \"Millie\";",
+				"isCorrect": false
+			},
+			{
+				"content": "B. catname = \"Millie\";",
+				"isCorrect": false
+			},
+			{
+				"content": "C. catname[ ] = \"Millie\";",
+				"isCorrect": false
+			},
+			{
+				"content": "D. none are valid",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. The code below declares and defines variable x  ",
+		"answer": [
+			{
+				"content": "A. true",
+				"isCorrect": false
+			},
+			{
+				"content": "B. false",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. non-const static member variables must be defined outside of the class for them to be used  ",
+		"answer": [
+			{
+				"content": "A. true",
+				"isCorrect": false
+			},
+			{
+				"content": "B. false",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. What is the value of y at the end of main?  ",
+		"answer": [
+			{
+				"content": "A. 0",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 20",
+				"isCorrect": false
+			},
+			{
+				"content": "D. undefined",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. Which of the following variables can be accessed in foo's function try block handler?  ",
+		"answer": [
+			{
+				"content": "A. x and y and e",
+				"isCorrect": false
+			},
+			{
+				"content": "B. x and e",
+				"isCorrect": false
+			},
+			{
+				"content": "C. y and e",
+				"isCorrect": false
+			},
+			{
+				"content": "D. e",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. From line 6 in the code below which labels can you access using a goto statement?  ",
+		"answer": [
+			{
+				"content": "A. a, b, c, d",
+				"isCorrect": false
+			},
+			{
+				"content": "B. a, b, c",
+				"isCorrect": false
+			},
+			{
+				"content": "C. b, c",
+				"isCorrect": false
+			},
+			{
+				"content": "D. b, c, d",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. Which of the following functions are found when called in main during name lookup?  ",
+		"answer": [
+			{
+				"content": "A. foo",
+				"isCorrect": false
+			},
+			{
+				"content": "B. bar",
+				"isCorrect": false
+			},
+			{
+				"content": "C. foo and bar",
+				"isCorrect": false
+			},
+			{
+				"content": "D. neither",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. Of the variable definitions below, which ones have external linkage and can be accessed from another translation unit?  ",
+		"answer": [
+			{
+				"content": "A. w, x, y and z",
+				"isCorrect": false
+			},
+			{
+				"content": "B. w, y and z",
+				"isCorrect": false
+			},
+			{
+				"content": "C. w and z",
+				"isCorrect": false
+			},
+			{
+				"content": "D. y and z",
+				"isCorrect": false
+			},
+			{
+				"content": "E. none",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. In addition to const_cast, which cast can be used to cast away constness?  ",
+		"answer": [
+			{
+				"content": "A. static_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "B. dynamic_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "C. reinterpret_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "D. none of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. In addition to c-style, which casts can be used to cast an int to a pointer or a pointer to an int?  ",
+		"answer": [
+			{
+				"content": "A. static_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "B. dynamic_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "C. reinterpret_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "D. static_cast or dynamic_cast",
+				"isCorrect": false
+			},
+			{
+				"content": "E. none of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. What is the value of x at the end of main?  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. -1",
+				"isCorrect": false
+			},
+			{
+				"content": "C. implementation defined",
+				"isCorrect": false
+			},
+			{
+				"content": "D. undefined",
+				"isCorrect": false
+			},
+			{
+				"content": "E. compiler error",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

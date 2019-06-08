@@ -1,0 +1,586 @@
+[
+	{
+		"question": " 1. Can DISTINCT command be used for more than one column?  ",
+		"answer": [
+			{
+				"content": "A. No",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Yes",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. Can I call a trigger directly called from an application?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. A view is nothing but a ________ table or a stored query  ",
+		"answer": [
+			{
+				"content": "A. Dymanic",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Real",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Virtual",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Static",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. User() fucntion returns the current users user name and ___________  ",
+		"answer": [
+			{
+				"content": "A. password",
+				"isCorrect": false
+			},
+			{
+				"content": "B. host name",
+				"isCorrect": false
+			},
+			{
+				"content": "C. both a and b above",
+				"isCorrect": false
+			},
+			{
+				"content": "D. database name associated with the user",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. If an ENUM column is declared NOT NULL, its default value is the first element of the list of allowed values.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False, ENUM column cannot be null",
+				"isCorrect": false
+			},
+			{
+				"content": "C. False, its default value is the last element of the list of allowed values",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. Which of the following ways below are the correct way to get the current date?  ",
+		"answer": [
+			{
+				"content": "A. SELECT CURTIME();",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SELECT CURDATE();",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SELECT CURRENT_TIME();",
+				"isCorrect": false
+			},
+			{
+				"content": "D. All of above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. Which is the default order of sort in ORDER BY clause?  ",
+		"answer": [
+			{
+				"content": "A. Ascending",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Descending",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. Enum values are stored accodring to their index numbers  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. An outer join requires each record in the two joined tables to have a matching record.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. On executing DELETE command, if you get an error \"foreign key constraint\"- what does it imply?  ",
+		"answer": [
+			{
+				"content": "A. Foreign key not defined",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Table is empty",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Connectivity issue",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Data is present in the other table",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. USE keyword is used to select a ___________  ",
+		"answer": [
+			{
+				"content": "A. Table",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Column",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Database",
+				"isCorrect": false
+			},
+			{
+				"content": "D. All of above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. BLOB data type can have default column value.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. What is a candidate key?  ",
+		"answer": [
+			{
+				"content": "A. Used to uniquely identify a row",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Alias for primary key",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Used to identify a column",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Alias for foreign key",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. How much storage space does DATETIME require?  ",
+		"answer": [
+			{
+				"content": "A. 4 bytes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2 bytes",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 8 bytes",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 1 bytes",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. –i-am-a-dummy flag is used Makes the MySQL engine refuse UPDATE and which other command?  ",
+		"answer": [
+			{
+				"content": "A. WHERE",
+				"isCorrect": false
+			},
+			{
+				"content": "B. INSERT",
+				"isCorrect": false
+			},
+			{
+				"content": "C. DELETE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. TRUNCATE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. How can we get the number of records or rows in a table?  ",
+		"answer": [
+			{
+				"content": "A. Using COUNT",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Using NUM",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Using NUMBER",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Both a and c above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. Which of the following file extension is a valid MyISAM file extension?  ",
+		"answer": [
+			{
+				"content": "A. .ism",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .myd",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .my",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .mys",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. Can I define multiple unique constraints on a table?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. If an ENUM column is declared NOT NULL, its default value is the first element of the list of allowed values.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False, ENUM column cannot be null",
+				"isCorrect": false
+			},
+			{
+				"content": "C. False, its default value is the last element of the list of allowed values",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. When do we use a HAVING clause?  ",
+		"answer": [
+			{
+				"content": "A. To limit the output of a query",
+				"isCorrect": false
+			},
+			{
+				"content": "B. To limit the output of a query using an aggregate function only",
+				"isCorrect": false
+			},
+			{
+				"content": "C. When GROUP by is used",
+				"isCorrect": false
+			},
+			{
+				"content": "D. both b and c above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. User() fucntion returns the current users user name and ___________  ",
+		"answer": [
+			{
+				"content": "A. password",
+				"isCorrect": false
+			},
+			{
+				"content": "B. host name",
+				"isCorrect": false
+			},
+			{
+				"content": "C. both a and b above",
+				"isCorrect": false
+			},
+			{
+				"content": "D. database name associated with the user",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. Can I call a trigger directly called from an application?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. Write a query to delete a row from a table “academy” in database “wscube” whose “id” field have the value ‘2’ assuming that you are in the same database?  ",
+		"answer": [
+			{
+				"content": "A. DELETE FROM  wscube.academy where academy.id=2;",
+				"isCorrect": false
+			},
+			{
+				"content": "B. DELETE FROM `wscube`.`academy` where `academy`.`id`=2;",
+				"isCorrect": false
+			},
+			{
+				"content": "C. DELETE FROM 'wscube'.'academy' where 'academy'.'id'=2;",
+				"isCorrect": false
+			},
+			{
+				"content": "D. DELETE FROM “wscube”.”academy” where “academy”.”id”=2;",
+				"isCorrect": false
+			},
+			{
+				"content": "E. Both (a) and (b)",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. Write a query to search records who are having ‘3’ as value in it’s “id” field in a table “academy” in database “wscube”?  ",
+		"answer": [
+			{
+				"content": "A. SELECT * FROM  ‘academy’ WHERE  ‘id’ =3;",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SELECT * FROM  academy WHERE  id  3;",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SELECT * FROM  `academy` WHERE  `id` =3;",
+				"isCorrect": false
+			},
+			{
+				"content": "D. SELECT * FROM  `academy` WHERE  `id` 3;",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. Write a select query to retrieve the records from the table “students”?   ",
+		"answer": [
+			{
+				"content": "A. SELECT * FROM  students",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SELECT * FROM  ` students `;",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SELECT * FROM  \" students \";",
+				"isCorrect": false
+			},
+			{
+				"content": "D. SELECT * FROM  ' students ';",
+				"isCorrect": false
+			},
+			{
+				"content": "E. Both (a) and (b)",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. How much character are allowed to create database name?  ",
+		"answer": [
+			{
+				"content": "A. 64",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 55",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 72",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 40",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. Primary Key does allow the Null Values. where as in\nUnique key doesn't accept the Null values.\n  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. Which of the following is used to delete an entire MYSQL database?  ",
+		"answer": [
+			{
+				"content": "A. mysql_drop_database",
+				"isCorrect": false
+			},
+			{
+				"content": "B. mysql_drop_entiredb",
+				"isCorrect": false
+			},
+			{
+				"content": "C. mysql_drop_db",
+				"isCorrect": false
+			},
+			{
+				"content": "D. mysql_drop_dbase",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. What SQL clause is used to restrict the rows returned by a query?  ",
+		"answer": [
+			{
+				"content": "A. AND",
+				"isCorrect": false
+			},
+			{
+				"content": "B. WHERE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. HAVING",
+				"isCorrect": false
+			},
+			{
+				"content": "D. FROM",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. A table may be joined to itself.  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			},
+			{
+				"content": "C. None of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

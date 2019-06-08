@@ -1,0 +1,630 @@
+[
+	{
+		"question": " 1. ________________ is use for alternately expand and collapse a page element  ",
+		"answer": [
+			{
+				"content": "A. .hover()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. stopPropagation()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .toggle()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .trigger()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. jQuery ______is used to set/return arbitrary data to/from an element.  ",
+		"answer": [
+			{
+				"content": "A. .data()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .item()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .all",
+				"isCorrect": false
+			},
+			{
+				"content": "D. All of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. The ________ method acts on JQuery objects and translate the  match DOM element into  query string that can be pass along with AJAX request.  ",
+		"answer": [
+			{
+				"content": "A. .serialize()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .serializeAll()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .synchronized()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. none of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. Which of the following method is used to hide the selected elements?  ",
+		"answer": [
+			{
+				"content": "A. visible(false)",
+				"isCorrect": false
+			},
+			{
+				"content": "B. hidden()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. display(none)",
+				"isCorrect": false
+			},
+			{
+				"content": "D. hide()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. What is the file size of minified version of jQuery.x.x.x-min.js?  ",
+		"answer": [
+			{
+				"content": "A. 178KB",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 76.7 KB",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 180 KB",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. How many ways are there to change the width of the element in jquery.  ",
+		"answer": [
+			{
+				"content": "A. Two",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Three",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Four",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. What does  .size() method of jquery returns?  ",
+		"answer": [
+			{
+				"content": "A. No. of element in object",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No. of variable in object",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Both a and b",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. Jquery is a library for _______ scripting.  ",
+		"answer": [
+			{
+				"content": "A. Client",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Server",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Both a and b",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. CDN stands for_______  ",
+		"answer": [
+			{
+				"content": "A. Content Distribution Network",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Common Distribution Network",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Collective Distribution Network",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. Highlight page element under mouse cursor by using ________  ",
+		"answer": [
+			{
+				"content": "A. .hover()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. stopPropagation()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .toggle()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .trigger()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. jquery written in which scripting language?  ",
+		"answer": [
+			{
+				"content": "A. java script",
+				"isCorrect": false
+			},
+			{
+				"content": "B. VBscript",
+				"isCorrect": false
+			},
+			{
+				"content": "C. HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. 1)jquery.size()\n2) jquery.length \nWhich is faster?  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. The ______ Method acts as explicit iterator.  ",
+		"answer": [
+			{
+				"content": "A. .hover()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .all()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .toggle()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .each()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. How many types of selectors available in jquery.  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 4",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. By default .clone() method copy any event.  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. There are how many ways to check or unchecked the radio button.  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 4",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. To deal with cookies in jQuery we have to use ______ cookie plugin  ",
+		"answer": [
+			{
+				"content": "A. Dough",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Session",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Dazzler",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. Using ________ function, we can hold or release the execution of jQuery’s ready event.  ",
+		"answer": [
+			{
+				"content": "A. jQuery.holdReady()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. jQuery.ready()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. jQuery.hold()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. jQuery.holdready()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. The ________ method works for accepting an array of DOM elements and pushes them into a stack.  ",
+		"answer": [
+			{
+				"content": "A. push()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. pop()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. pushStack()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. popStack()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. Which method is provided by the jquery to create our own custom animation with fine-grained control.  ",
+		"answer": [
+			{
+				"content": "A. .animation()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. stopPropagation()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .toggle()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .animate()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. Use __________ event handlers\tto reach to a user click on page element with .bind() or .click().  ",
+		"answer": [
+			{
+				"content": "A. mouse",
+				"isCorrect": false
+			},
+			{
+				"content": "B. windows",
+				"isCorrect": false
+			},
+			{
+				"content": "C. click",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. Jquery library is ____________ file.  ",
+		"answer": [
+			{
+				"content": "A. .html",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .XML",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .js",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .lib",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. jquery has _______ method for inserting element before other element.  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 4",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. For the purposes of selecting specific class, class must contain prefix as  “__“.  ",
+		"answer": [
+			{
+				"content": "A. $",
+				"isCorrect": false
+			},
+			{
+				"content": "B. #",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .",
+				"isCorrect": false
+			},
+			{
+				"content": "D. %",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. AHAH means ________  ",
+		"answer": [
+			{
+				"content": "A. Asynchronous HTTP and HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Asynchronous HTTP and HTTPs",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Alternate HTTP and HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. For coping the element ________ method is used.  ",
+		"answer": [
+			{
+				"content": "A. .copy()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .clone()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .coping()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. In which version of the jquery, efficiency  of the web page increased.  ",
+		"answer": [
+			{
+				"content": "A. minified version",
+				"isCorrect": false
+			},
+			{
+				"content": "B. normal version",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. The .each method is the more convenient form of _______ loop.  ",
+		"answer": [
+			{
+				"content": "A. do while",
+				"isCorrect": false
+			},
+			{
+				"content": "B. for",
+				"isCorrect": false
+			},
+			{
+				"content": "C. for each",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. Multiple javascript library coexist on single page using ___________________  ",
+		"answer": [
+			{
+				"content": "A. conflict()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. noConflict()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. unbind()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. die()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. Jquery is the programming language  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

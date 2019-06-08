@@ -1,0 +1,418 @@
+[
+	{
+		"question": " 1. ____________tag is used to specify an inline frame  ",
+		"answer": [
+			{
+				"content": "A. < jframe>",
+				"isCorrect": false
+			},
+			{
+				"content": "B. < frameset>",
+				"isCorrect": false
+			},
+			{
+				"content": "C. < iframe>",
+				"isCorrect": true
+			},
+			{
+				"content": "D. < frame>",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. How many graphic object types are allowed by SVG?  ",
+		"answer": [
+			{
+				"content": "A. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 3",
+				"isCorrect": true
+			},
+			{
+				"content": "D. 7",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. <canvas > element is only a ____________to the graphics.  ",
+		"answer": [
+			{
+				"content": "A. component",
+				"isCorrect": false
+			},
+			{
+				"content": "B. container",
+				"isCorrect": true
+			},
+			{
+				"content": "C. attribute",
+				"isCorrect": false
+			},
+			{
+				"content": "D. method",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. HTML is based on which language  ",
+		"answer": [
+			{
+				"content": "A. XHTML",
+				"isCorrect": false
+			},
+			{
+				"content": "B. XML",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SGML",
+				"isCorrect": true
+			},
+			{
+				"content": "D. DTD",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. HTML 5 supports all form controls from HTML 4?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": true
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. The __________  is an instruction to the web browser about what version of HTML the page is written in  ",
+		"answer": [
+			{
+				"content": "A. < !DOCTYPE>",
+				"isCorrect": true
+			},
+			{
+				"content": "B. < DOCTYPE>",
+				"isCorrect": false
+			},
+			{
+				"content": "C. < TYPE>",
+				"isCorrect": false
+			},
+			{
+				"content": "D. < !TYPE>",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. Frame concept is available in HTML5  ",
+		"answer": [
+			{
+				"content": "A. YES",
+				"isCorrect": false
+			},
+			{
+				"content": "B. NO",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. Ancestor of all other elements on the page is called________  ",
+		"answer": [
+			{
+				"content": "A. parent",
+				"isCorrect": false
+			},
+			{
+				"content": "B. ancestor",
+				"isCorrect": false
+			},
+			{
+				"content": "C. root element",
+				"isCorrect": false
+			},
+			{
+				"content": "D. siblings",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. Which of the following are input type attribute in html5?\n 1) search\n2) datetime\n3) week\n 4) color\n5) track\n6) placeholder",
+		"answer": [
+			{
+				"content": "A. 1,2,3,4,6",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 1,2,3,4,5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 2,3,4,5,6",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 1,3,4,5,6",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. Canvas is able to draw the 2D graphics using---------------  ",
+		"answer": [
+			{
+				"content": "A. XML",
+				"isCorrect": false
+			},
+			{
+				"content": "B. HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Java script",
+				"isCorrect": true
+			},
+			{
+				"content": "D. XHTML",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. What is W3C?  ",
+		"answer": [
+			{
+				"content": "A. World Wide Web Consortium",
+				"isCorrect": true
+			},
+			{
+				"content": "B. world wide web corporation",
+				"isCorrect": false
+			},
+			{
+				"content": "C. world wide web company",
+				"isCorrect": false
+			},
+			{
+				"content": "D. world wide web controlling",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. What is the correct HTML tag for adding a background color?  ",
+		"answer": [
+			{
+				"content": "A. < body background=”yellow”>",
+				"isCorrect": true
+			},
+			{
+				"content": "B. < background>yellow< backgound>",
+				"isCorrect": false
+			},
+			{
+				"content": "C. < bold style=”background-color:white”>",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. What do you mean by SVG?  ",
+		"answer": [
+			{
+				"content": "A. Secondary vector graphics",
+				"isCorrect": false
+			},
+			{
+				"content": "B. scalable vertical graphics",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Scalable vector graphics",
+				"isCorrect": true
+			},
+			{
+				"content": "D. scalable vector graph",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. Which of the following term describes the art of making dynamic and interactive web pages?  ",
+		"answer": [
+			{
+				"content": "A. DHTML",
+				"isCorrect": true
+			},
+			{
+				"content": "B. HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "C. XHTML",
+				"isCorrect": false
+			},
+			{
+				"content": "D. XML",
+				"isCorrect": false
+			}
+		],
+		"detail": "DHTML is the combination of: HTML, JavaScript, HTML DOM, CSS"
+	},
+	{
+		"question": " 22. Attributes consist of a name and a value separated by  ___  sign  ",
+		"answer": [
+			{
+				"content": "A. ” ”",
+				"isCorrect": false
+			},
+			{
+				"content": "B. ,",
+				"isCorrect": false
+			},
+			{
+				"content": "C. =",
+				"isCorrect": true
+			},
+			{
+				"content": "D. ;",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. Is it possible to use HTML 5 for the mobile application?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": true
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. The sessionStorage object stores the data for __________  ",
+		"answer": [
+			{
+				"content": "A. one session",
+				"isCorrect": true
+			},
+			{
+				"content": "B. two session",
+				"isCorrect": false
+			},
+			{
+				"content": "C. three session",
+				"isCorrect": false
+			},
+			{
+				"content": "D. multiple session",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. Graphics defined by SVG is in_______ format.  ",
+		"answer": [
+			{
+				"content": "A. HTML",
+				"isCorrect": false
+			},
+			{
+				"content": "B. XML",
+				"isCorrect": true
+			},
+			{
+				"content": "C. XHTML",
+				"isCorrect": false
+			},
+			{
+				"content": "D. DTD",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. If background image is smaller than the screen, what will happen?  ",
+		"answer": [
+			{
+				"content": "A. It’ll be stretched",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It’ll be repeated",
+				"isCorrect": true
+			},
+			{
+				"content": "C. It’ll leave blank space at the bottom of page",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None of these",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. Which attribute will play the  audio embed in the audio element  continuously?  ",
+		"answer": [
+			{
+				"content": "A. preload",
+				"isCorrect": false
+			},
+			{
+				"content": "B. control",
+				"isCorrect": false
+			},
+			{
+				"content": "C. loop",
+				"isCorrect": true
+			},
+			{
+				"content": "D. autoplay",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

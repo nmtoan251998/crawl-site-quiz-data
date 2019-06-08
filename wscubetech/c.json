@@ -1,0 +1,662 @@
+[
+	{
+		"question": " 1. What is the extension of C file?  ",
+		"answer": [
+			{
+				"content": "A. .s",
+				"isCorrect": false
+			},
+			{
+				"content": "B. .cpp",
+				"isCorrect": false
+			},
+			{
+				"content": "C. .c",
+				"isCorrect": false
+			},
+			{
+				"content": "D. .b",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. Example for calling a function in C? What is the output of below c program? main() { \tprintf(“hello world”); \tfun(); } fun() { \tprintf(“my function”); }  ",
+		"answer": [
+			{
+				"content": "A. It prints hello world, and my function",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It prints hello world",
+				"isCorrect": false
+			},
+			{
+				"content": "C. It prints my function",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Error",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. In c, from which function program execution starts?  ",
+		"answer": [
+			{
+				"content": "A. fun()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. main()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Both fun() and main()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None are correct",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. What is a variable?  ",
+		"answer": [
+			{
+				"content": "A. Variable is a placeholder to hold a value.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Variable is a method",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Variable is an object.",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None are correct",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. Who invented C language?  ",
+		"answer": [
+			{
+				"content": "A. Dennis Ritchie",
+				"isCorrect": false
+			},
+			{
+				"content": "B. James Gosling",
+				"isCorrect": false
+			},
+			{
+				"content": "C. BjarneStrouStrup",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Bill Gates",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. Where all c language can be used?\n1. To build applications\n2. To build libraries and frameworks\n3. To build operating systems\n4. To build compilers\n  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 1 & 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 1,2, &  3",
+				"isCorrect": false
+			},
+			{
+				"content": "D. All are true",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. What is the difference between printf and scanf functions in c?  ",
+		"answer": [
+			{
+				"content": "A. printf is used to display the output and scanf is used to read the data from input devices.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. printf is used to take value from input devices, and scanf is used to display output",
+				"isCorrect": false
+			},
+			{
+				"content": "C. None",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Both",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. What is the output of below C program?\nint main()\n{\n\tintnum, first = 0, second = 1, next, c; \n\tprintf(“Enter any number\\n”); \n\tscanf(“%d”, &num);\n\tfor(c=0;c\n\t\t\t",
+		"answer": [
+			{
+				"content": "A. It will find if num is odd or even",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It will find if num is prime number or not",
+				"isCorrect": false
+			},
+			{
+				"content": "C. It is finding factorial of num",
+				"isCorrect": false
+			},
+			{
+				"content": "D. It is finding fibonacci series for num numbers",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. What is an array in c?  ",
+		"answer": [
+			{
+				"content": "A. It is a homogeneous data structure which can hold data of same type",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It is a homogeneous data structure which can hold data of different type",
+				"isCorrect": false
+			},
+			{
+				"content": "C. It is a heterogeneous data structure which can hold data of same type",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. What is a structure in c?  ",
+		"answer": [
+			{
+				"content": "A. It is a user defined data type which can hold the data of heterogeneous type",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It is a homogeneous data structure which can hold data of different type",
+				"isCorrect": false
+			},
+			{
+				"content": "C. It is a heterogeneous data structure which can hold data of same type",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. What is the termination character for char array or strings in c?  ",
+		"answer": [
+			{
+				"content": "A. \\0",
+				"isCorrect": false
+			},
+			{
+				"content": "B. null",
+				"isCorrect": false
+			},
+			{
+				"content": "C. NULL",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 0",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. What is the difference between structure and union in c?  ",
+		"answer": [
+			{
+				"content": "A. In structure, memory is allocated for all variables. Where as in union memory is allocated for only one variable which requires more memory. (i.e for higher data type variable).",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Structure and union both allocates memory for all variables",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Both are correct",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None are correct",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. What is a pointer in c?  ",
+		"answer": [
+			{
+				"content": "A. Pointer is a variable which holds the address of anything.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. There are no pointers in c",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Pointer means a constants",
+				"isCorrect": false
+			},
+			{
+				"content": "E. None",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. What is the output of below C program?\n#include\nmain(void)\n{ \n\tintcnt = 0; \n\tcnt++ = 2; \n\tprintf(“%d”, cnt); \n\treturn 0;\n}\n  ",
+		"answer": [
+			{
+				"content": "A. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 0",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Compile time error, lvalue required",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. What is the output of below C program?\n#include\nint main(void)\n{ \n\tfloat res = 12/5; \n\tprintf(“%f”, res); \n\treturn 0;\n}\n  ",
+		"answer": [
+			{
+				"content": "A. 2.000000",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 2.400000",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 2,4",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. Can a function return multiple values in C program?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Yes, but by returning structures or arrays or unions or other data structures",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Can’t say",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. If a function is called by passing a value, and if the called function has changed the value passed, then will it have any effect on calling function's value?  ",
+		"answer": [
+			{
+				"content": "A. No, pass by value will not have any effect.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Yes, pass by value will have effect if called functions changes the value passed to it.",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Can't say",
+				"isCorrect": false
+			},
+			{
+				"content": "D. None",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. Sample code of for loop without any condition in a C program:\nWhat does the following code do:\nfor{;;}\n  ",
+		"answer": [
+			{
+				"content": "A. Illegal",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Ignored by compiler",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Nothing",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Loops forever",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. How many iterative statements are available in c language?  ",
+		"answer": [
+			{
+				"content": "A. for",
+				"isCorrect": false
+			},
+			{
+				"content": "B. for, while",
+				"isCorrect": false
+			},
+			{
+				"content": "C. for, while, do-while",
+				"isCorrect": false
+			},
+			{
+				"content": "D. for, while, do-while and switch",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. What are the minimum iterations do-while loop executes?  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 0",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 2",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 4",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. Example for do while loop in C:\nWhat will be the output of this below program?\n#include\nmain( )\n{ \ndo\n{ \nprintf(“Interview Question!!”);\n }\nwhile(1>0);\n\t}\n  ",
+		"answer": [
+			{
+				"content": "A. Infinite loop and crash",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Compile time error",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Interview Question",
+				"isCorrect": false
+			},
+			{
+				"content": "D. No ouput",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. Sample program for do-while loop in C:\nWhat will be the output of this below program?\n#include\nmain( )\n{ \ndo\n{ \nprintf(“Interview Question!!”);\n\t\t}\n\t\twhile(0>0);\n\t}\n  ",
+		"answer": [
+			{
+				"content": "A. Infinite loop and crash",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Compile time error",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Interview Question!!",
+				"isCorrect": false
+			},
+			{
+				"content": "D. No output",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. What is the output of below C program?\n#include\n#include\nintmain(void)\n{ \nstaticint i = 10; \nprintf(“%d\\n”,i);\nif(i<=10)\n{\n\ti++;\n\tmain();\n}\nelse\n{\n\texit(0);\n\n}\nreturn 0;\n\t}\n  ",
+		"answer": [
+			{
+				"content": "A. 10,11",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 10",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Infinite loop and crash due to stack over flow",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Compile time error",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. Is the following C code correct?\ninline f(int i)\n{ \nwhile(i) \n{\ni--; \nprintf(“%d”,i); \n} \nreturn 1;\n}\n  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Ignored by compiler",
+				"isCorrect": false
+			},
+			{
+				"content": "C. No",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Loops forever",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. What will happen if recursive function calls are made with out any condition to break the recursion?  ",
+		"answer": [
+			{
+				"content": "A. It gives compile time error",
+				"isCorrect": false
+			},
+			{
+				"content": "B. It crashes the program",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Nothing happens, it runs properly",
+				"isCorrect": false
+			},
+			{
+				"content": "D. It depends on compiler",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. printf in while loop:\nHow many times below program will print hello world?\nmain()\n{\nwhile(!printf(“Hello world”))\n{}\n}\n  ",
+		"answer": [
+			{
+				"content": "A. 1",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Infinite loop",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 0 times",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Infinite loop and crash",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. Infinite for loop in C with break statement:\nWhat will be the output of this below program?\n#include\nmain( )\n{ \nint i = 1;\nfor(; ;)\n{\n\tprintf(“%d\\n”, i);\n\tif(i>5);\n\tbreak;\n\telse\n\ti+=2;\n}\n\t}\n  ",
+		"answer": [
+			{
+				"content": "A. 1,3,5,7",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 1,3,5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 1.2.3.4.5.6.7",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 1,2,3,4,5",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. What will be the output of this below program?\n#include\nmain()\n{\n\tint i=1;\n\twhile(i<=10)\n\t{\n\t\tfor(int j=0; j\n\t\t\t",
+		"answer": [
+			{
+				"content": "A. 122333444455555",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 12345",
+				"isCorrect": false
+			},
+			{
+				"content": "C. No output",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Infinite loop and crash",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. How many iterative statements are available in c language?  ",
+		"answer": [
+			{
+				"content": "A. for",
+				"isCorrect": false
+			},
+			{
+				"content": "B. for, while",
+				"isCorrect": false
+			},
+			{
+				"content": "C. for, while, do-while",
+				"isCorrect": false
+			},
+			{
+				"content": "D. for, while, do-while and switch",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. What does this program do what will be the output?\nint main()\n{ \nintnum=4,i,x=1; \nfor(i=1;i<=num;i++)\n{\nx=x*1;\n}\nPrintf(“Result is %d”,x);\n\t}\n  ",
+		"answer": [
+			{
+				"content": "A. This is the code to find factorial of a given number. Output for this program is factorial of 4, i.e. 24.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. This code is multiplying all the numbers with 4 and adding. Result is 38.",
+				"isCorrect": false
+			},
+			{
+				"content": "C. It gives compile time error.",
+				"isCorrect": false
+			},
+			{
+				"content": "D. It is an example of infinite loop and crashes the program at run time.",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

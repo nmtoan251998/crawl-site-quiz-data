@@ -1,0 +1,618 @@
+[
+	{
+		"question": " 1. Which of the following is used to declare a constant  ",
+		"answer": [
+			{
+				"content": "A. const",
+				"isCorrect": false
+			},
+			{
+				"content": "B. constant",
+				"isCorrect": false
+			},
+			{
+				"content": "C. define",
+				"isCorrect": false
+			},
+			{
+				"content": "D. #pragma",
+				"isCorrect": false
+			},
+			{
+				"content": "E. def",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. What gets printed?  ",
+		"answer": [
+			{
+				"content": "A. true",
+				"isCorrect": false
+			},
+			{
+				"content": "B. false",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. Which of the following is the way to create comments in PHP?  ",
+		"answer": [
+			{
+				"content": "A. // commented code to end of line",
+				"isCorrect": false
+			},
+			{
+				"content": "B. /* commented code here */",
+				"isCorrect": false
+			},
+			{
+				"content": "C. # commented code to end of line",
+				"isCorrect": false
+			},
+			{
+				"content": "D. all of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. What does PHP stand for?  ",
+		"answer": [
+			{
+				"content": "A. Preprocessed Hypertext Page",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Hypertext Markup Language",
+				"isCorrect": false
+			},
+			{
+				"content": "C. PHP: Hypertext Preprocessor",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Hypertext Transfer Protocol",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. What will be the value of $var?  ",
+		"answer": [
+			{
+				"content": "A. 0",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 0.5",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 1",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. How do we access the value of 'd' later?  ",
+		"answer": [
+			{
+				"content": "A. $a[0]",
+				"isCorrect": false
+			},
+			{
+				"content": "B. $a[1]",
+				"isCorrect": false
+			},
+			{
+				"content": "C. $a[2]",
+				"isCorrect": false
+			},
+			{
+				"content": "D. $a[3]",
+				"isCorrect": false
+			},
+			{
+				"content": "E. $a[4]",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. Which of the following is NOT a valid PHP comparison operator?  ",
+		"answer": [
+			{
+				"content": "A. !=",
+				"isCorrect": false
+			},
+			{
+				"content": "B. >=",
+				"isCorrect": false
+			},
+			{
+				"content": "C. <=>",
+				"isCorrect": false
+			},
+			{
+				"content": "D. <>",
+				"isCorrect": false
+			},
+			{
+				"content": "E. ===",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. What gets printed?  ",
+		"answer": [
+			{
+				"content": "A. Caught Exception",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Caught MyException",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. Which statement about the code below is correct?  ",
+		"answer": [
+			{
+				"content": "A. the code is perfectly fine",
+				"isCorrect": false
+			},
+			{
+				"content": "B. classes can not be empty",
+				"isCorrect": false
+			},
+			{
+				"content": "C. class C can not extend both A and B",
+				"isCorrect": false
+			},
+			{
+				"content": "D. qualifiers 'public' or 'private' are missing in class definitions",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. Which of the following is NOT a magic predefined constant?  ",
+		"answer": [
+			{
+				"content": "A. __LINE__",
+				"isCorrect": false
+			},
+			{
+				"content": "B. __FILE__",
+				"isCorrect": false
+			},
+			{
+				"content": "C. __DATE__",
+				"isCorrect": false
+			},
+			{
+				"content": "D. __CLASS__",
+				"isCorrect": false
+			},
+			{
+				"content": "E. __METHOD__",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. What gets printed?  ",
+		"answer": [
+			{
+				"content": "A. 11",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 22",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 33",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 37",
+				"isCorrect": false
+			},
+			{
+				"content": "E. 39",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. What is the strpos() function used for?  ",
+		"answer": [
+			{
+				"content": "A. Find the last character of a string",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Both b and c",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Search for character within a string",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Locate position of a string’s first character",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. Which of the following differences are valid between PHP 4 and PHP 5?  ",
+		"answer": [
+			{
+				"content": "A. Built-in native support for SQLite",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Both a and c",
+				"isCorrect": false
+			},
+			{
+				"content": "C. improved MySQL support",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Support for inheritance",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. Can we use include (”test.php”) two times in a PHP page “test1.PHP”?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. What is the difference between GET and POST method?  ",
+		"answer": [
+			{
+				"content": "A. GET displays the form values entered in the URL of the address bar where as POST does not.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. POST displays the form values entered in the URL of the address bar where as GET does not.",
+				"isCorrect": false
+			},
+			{
+				"content": "C. There is no difference",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16.  ____________ function in PHP Returns a list of response headers sent (or ready to send)  ",
+		"answer": [
+			{
+				"content": "A. header()",
+				"isCorrect": false
+			},
+			{
+				"content": "B. headers_list()",
+				"isCorrect": false
+			},
+			{
+				"content": "C. header_sent()",
+				"isCorrect": false
+			},
+			{
+				"content": "D. header_send()",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. What is array_keys() used for?  ",
+		"answer": [
+			{
+				"content": "A. Compares array keys, and returns the matches",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Checks if the specified key exists in the array",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Returns all the keys of an array",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Both b and c above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. How do I create PHP arrays in a HTML <form>?  ",
+		"answer": [
+			{
+				"content": "A. < input name= MyArray[]/>",
+				"isCorrect": false
+			},
+			{
+				"content": "B. < input =\"MyArray[]\" />",
+				"isCorrect": false
+			},
+			{
+				"content": "C. < input name=\"MyArray[]\" />",
+				"isCorrect": false
+			},
+			{
+				"content": "D. < input MyArray[] />",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. What is the difference between echo and print?  ",
+		"answer": [
+			{
+				"content": "A. They both behave the same.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Print can take multiple parameters where as echo cannot",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Echo can take multiple parameters where as print cannot",
+				"isCorrect": false
+			},
+			{
+				"content": "D. Print is a function where as echo is not.",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. What is the default size of a file set in upload_max_filesize ?  ",
+		"answer": [
+			{
+				"content": "A. 1 MB",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 2 MB",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 2.5 MB",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 3 MB",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. What is Joomla in PHP?  ",
+		"answer": [
+			{
+				"content": "A. Set of library enriched with fucntions",
+				"isCorrect": false
+			},
+			{
+				"content": "B. An open source CMS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Framework for designing dynamic pages",
+				"isCorrect": false
+			},
+			{
+				"content": "D. framework and distribution system for reusable PHP components",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. What is the default execution time set in set_time_limit()?  ",
+		"answer": [
+			{
+				"content": "A. 20 secs",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 30 secs",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 40 secs",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 35 secs",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. Is strstr and strchr aliases?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. Can I generate DLL files from PHP scripts like i can in Perl ?  ",
+		"answer": [
+			{
+				"content": "A. No",
+				"isCorrect": false
+			},
+			{
+				"content": "B. yes",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. In which variable is the users IP address stored?  ",
+		"answer": [
+			{
+				"content": "A. $DOMAIN",
+				"isCorrect": false
+			},
+			{
+				"content": "B. $GLOBALS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. $_ENV",
+				"isCorrect": false
+			},
+			{
+				"content": "D. $REMOTE_ADDR",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. Can I run several versions of PHP at the same time?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. Which function is used to Strip whitespace (or other characters) from the beginning and end of a string?  ",
+		"answer": [
+			{
+				"content": "A. trim_str",
+				"isCorrect": false
+			},
+			{
+				"content": "B. strip_str",
+				"isCorrect": false
+			},
+			{
+				"content": "C. strip",
+				"isCorrect": false
+			},
+			{
+				"content": "D. trim",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. What is PHP heredoc used for?  ",
+		"answer": [
+			{
+				"content": "A. allows creating single line of string without using quotations",
+				"isCorrect": false
+			},
+			{
+				"content": "B. allows creating multiple lines of string without using quotations",
+				"isCorrect": false
+			},
+			{
+				"content": "C. allows creating multiple lines of string with quotations",
+				"isCorrect": false
+			},
+			{
+				"content": "D. allows creating single lines of string with using quotations",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. Can echo in php accept more than 1 parameter?  ",
+		"answer": [
+			{
+				"content": "A. Yes",
+				"isCorrect": false
+			},
+			{
+				"content": "B. No",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. What is the purpose of $_SESSION[]?  ",
+		"answer": [
+			{
+				"content": "A. Used to register a global variable",
+				"isCorrect": false
+			},
+			{
+				"content": "B. Used to initialize a session.",
+				"isCorrect": false
+			},
+			{
+				"content": "C. Used to store variables of the current session",
+				"isCorrect": false
+			},
+			{
+				"content": "D. none of the above",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

@@ -1,0 +1,654 @@
+[
+	{
+		"question": " 1. SEO STANDS FOR?  ",
+		"answer": [
+			{
+				"content": "A. SEARCH ENGINE ORGANIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SEARCH ENGINE OPERATION",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SEARCH ENGINE OPTIMIZE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. SEARCH ENGINE OPTIMIZATION",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. IS SEO WORK ONLY BRINGING A WEBSITE ON THE TOP OF SERP ON PARTICULAR KEYWORD?  ",
+		"answer": [
+			{
+				"content": "A. TRUE",
+				"isCorrect": false
+			},
+			{
+				"content": "B. FALSE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. WHAT IS TRAFFIC?  ",
+		"answer": [
+			{
+				"content": "A. NO. OF USERS WHO VISIT A WEBSITE AND COMING FROM SEARCH ENGINE.",
+				"isCorrect": false
+			},
+			{
+				"content": "B. NO. OF USERS WHO VISIT A WEBSITE AND COMING FROM SEARCH ENGINE.",
+				"isCorrect": false
+			},
+			{
+				"content": "C. NO. OF USES WHO VISIT A WEBSITE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NO. OF USER WHO VISIT A WEBSITE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. HOW MANY USER FIND OUT WEBSITE VIA SEARCH ENGINE?  //ESTIMATED  ",
+		"answer": [
+			{
+				"content": "A. 75%",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 25%",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 20-30%",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 80-70%",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. WHAT IS THE FIRST WORK TO START FOR SEO PROJECT?  ",
+		"answer": [
+			{
+				"content": "A. MAINTAIN THE RANKING",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SUBMIT A WEBSITE AT DIFFERENT - DIFFERENT SEARCH ENGINES",
+				"isCorrect": false
+			},
+			{
+				"content": "C. KEYWORDS ANALYSIS AND ON-PAGE OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "D. UNDERSTAND THE GOAL AND TARGET",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. 6.\tHOW MUCH INTERNET USERS USE GOOGLE AS SEARCH ENGINE? //ESTIMATED  ",
+		"answer": [
+			{
+				"content": "A. 75%",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 25%",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 20-30%",
+				"isCorrect": false
+			},
+			{
+				"content": "D. 70-80%",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. NAME OF GOOGLE'S LATEST ALGORITHMS?  ",
+		"answer": [
+			{
+				"content": "A. PANDA 4.2",
+				"isCorrect": false
+			},
+			{
+				"content": "B. PENGUIN",
+				"isCorrect": false
+			},
+			{
+				"content": "C. PENGUIN 3.0 REFRESH",
+				"isCorrect": false
+			},
+			{
+				"content": "D. PANDA 4.0",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. WHICH SEO TYPES CONSIDERS AS ORGANIC SEO?  ",
+		"answer": [
+			{
+				"content": "A. WHITE HAT",
+				"isCorrect": false
+			},
+			{
+				"content": "B. BLACK HAT",
+				"isCorrect": false
+			},
+			{
+				"content": "C. ON-PAGE OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "D. OFF-PAGE OPTIMIZATION",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. WHAT IS THE MOST IMPORTANT IN OFF-PAGE OPTIMIZATION?  ",
+		"answer": [
+			{
+				"content": "A. PAGE RANK - ALEXA RANK",
+				"isCorrect": false
+			},
+			{
+				"content": "B. PRESS RELEASE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. BLOG COMMENTING",
+				"isCorrect": false
+			},
+			{
+				"content": "D. FORUM SUBMISSION",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. WHAT IS USE IN TITLE FOR SEPARATION?  ",
+		"answer": [
+			{
+				"content": "A. PIPELINE ONLY",
+				"isCorrect": false
+			},
+			{
+				"content": "B. COMMA AND PIPELINE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. COMMA ONLY",
+				"isCorrect": false
+			},
+			{
+				"content": "D. COMMA ONLY",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 11. WHAT IS USE IN META KEYWORDS FOR SEPERATION?  ",
+		"answer": [
+			{
+				"content": "A. PIPELINE ONLY",
+				"isCorrect": false
+			},
+			{
+				"content": "B. COMMA AND PIPELINE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. COMMA ONLY",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NONE OF ABOVE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 12. WHAT IS THE LIMIT OF META KEYWORDS ALONG WITH SPACE?  ",
+		"answer": [
+			{
+				"content": "A. 60",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 100-140",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 100-250",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NO LIMIT",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 13. WHAT IS THE LIMIT OF META DESCRIPTION?  ",
+		"answer": [
+			{
+				"content": "A. 100-155",
+				"isCorrect": false
+			},
+			{
+				"content": "B. 100-240",
+				"isCorrect": false
+			},
+			{
+				"content": "C. 100-140",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NO LIMIT",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 14. WHERE WE USE MOST IMPORTANT KEYWORDS?  ",
+		"answer": [
+			{
+				"content": "A. TITLE, META KEYWORDS, META DESCRIPTION, HEADING TAG",
+				"isCorrect": false
+			},
+			{
+				"content": "B. TITLE, META KEYWORDS, META DESCRIPTION, H1 TAG",
+				"isCorrect": false
+			},
+			{
+				"content": "C. TITLE BOLD, META DESCRIPTION, HEADING TAG",
+				"isCorrect": false
+			},
+			{
+				"content": "D. TITLE BOLD, META DESCRIPTION, HEADING TAG",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 15. WHICH GOOGLE TOOL GIVES US TRAFFIC INFORMATION OF PARTICULAR WEBSITE WHICH COMING FROM GOOGLE?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE ADWORDS",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADSENCE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 16. WHICH GOOGLE TOOL GIVES US TRAFFIC INFORMATION OF PARTICULAR WEBSITE WHICH COMING FROM ANYWHERE?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE ADWORDS",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADSENSE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 17. WHICH GOOGLE TOOL USE TO FIND OUT APPROPRIATE KEYWORDS?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE ADWORDS",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADSENSE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 18. WHAT IS IMPORTANCE OF CANONICALIZATION IN SEO?  ",
+		"answer": [
+			{
+				"content": "A. SEARCH ENGINE TREATED AS SPAM",
+				"isCorrect": false
+			},
+			{
+				"content": "B. SEARCH ENGINE TREATED AS DUPLICATE WEBSITE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. SEARCH ENGINE TREATED AS ORIGINAL WEBSITE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. SEARCH ENGINE TREATED AS HEALTHY SEO WEBSITE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 19. WHAT IS THE FASTEST WAY TO GET BACKLINKS FOR A WEBSITE?  ",
+		"answer": [
+			{
+				"content": "A. SOCIAL MEDIA",
+				"isCorrect": false
+			},
+			{
+				"content": "B. DIRECTORY SUBMISSION",
+				"isCorrect": false
+			},
+			{
+				"content": "C. ARTICLE SUBMISSION",
+				"isCorrect": false
+			},
+			{
+				"content": "D. BLOG COMMENTING",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 20. WHERE WE UPLOAD SITEMAP.XML  ",
+		"answer": [
+			{
+				"content": "A. ROOT DIRECTORY OF WEBSITE",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE ADSENSE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NONE OF ABOVE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 21. WHICH TECHNIQUES ARE USING AS BLACK HAT SEO?   ",
+		"answer": [
+			{
+				"content": "A. KEYWORDS STUFFING",
+				"isCorrect": false
+			},
+			{
+				"content": "B. W3SCHOOLS VALIDATION",
+				"isCorrect": false
+			},
+			{
+				"content": "C. DIRECTORY SUBMISSION",
+				"isCorrect": false
+			},
+			{
+				"content": "D. BLOG COMMENTING",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 22. WHERE WE SUBMIT SITEMAP.XML?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. NONE OF ABOVE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADSENSE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 23. WHERE WE UPLOAD ROBOTS.TXT?  ",
+		"answer": [
+			{
+				"content": "A. ROOT DIRECTORY OF WEBSITE",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE ADSENSE",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NONE OF ABOVE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 24. WHERE WE SUBMIT ROBOTS.TXT?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ADSENSE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "D. NONE OF ABOVE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 25. WHICH TOOL GIVES AVERAGE RANKING OF WEBSITE ON SPECIFIC KEYWORD?  ",
+		"answer": [
+			{
+				"content": "A. GOOGLE WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "C. BING WEBMASTER",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADSENSE",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 26. WHAT IS PAGE RANK?  ",
+		"answer": [
+			{
+				"content": "A. TRAFFIC ANALYSIS ALGORITHM",
+				"isCorrect": false
+			},
+			{
+				"content": "B. LINK ANALYSIS ALGORITHM",
+				"isCorrect": false
+			},
+			{
+				"content": "C. MARKING ALGORITHM",
+				"isCorrect": false
+			},
+			{
+				"content": "D. RANKING ALGORITHM",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 27. WHICH TECHNIQUES ARE USING AS ORGANIC SEO?   ",
+		"answer": [
+			{
+				"content": "A. ON-PAGE OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "B. OVER OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "C. CLOAKING",
+				"isCorrect": false
+			},
+			{
+				"content": "D. SMO",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 28. WHERE WE SUBMIT A WEBSITE AT GOOGLE TO COLLECT AN INFORMATION ABOUT TRAFFIC?   ",
+		"answer": [
+			{
+				"content": "A. GOOGLE ANALYTICS",
+				"isCorrect": false
+			},
+			{
+				"content": "B. GOOGLE ADSENSE",
+				"isCorrect": false
+			},
+			{
+				"content": "C. FACEBOOK",
+				"isCorrect": false
+			},
+			{
+				"content": "D. GOOGLE ADWORDS",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 29. HOW TO INCREASE GOOGLE PAGE RANK?   ",
+		"answer": [
+			{
+				"content": "A. CLOAKING",
+				"isCorrect": false
+			},
+			{
+				"content": "B. OVER OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "C. QUALITY BACKLINKS",
+				"isCorrect": false
+			},
+			{
+				"content": "D. KEYWORDS STUFFING",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 30. WHICH TECHNIQUES ARE USING AS ONLINE REPUTATION TECHNIQUES?  ",
+		"answer": [
+			{
+				"content": "A. ARTICLE SUBMISSION",
+				"isCorrect": false
+			},
+			{
+				"content": "B. CLOAKING",
+				"isCorrect": false
+			},
+			{
+				"content": "C. OVER OPTIMIZATION",
+				"isCorrect": false
+			},
+			{
+				"content": "D. KEYWORDS STUFFING",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]

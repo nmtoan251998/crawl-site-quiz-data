@@ -1,0 +1,194 @@
+[			
+	{
+		"question": " 1. What is the new, easier way to import or modify fonts with CSS3?  ",
+		"answer": [
+			{
+				"content": "A. font-source: url(\\’Sansation_Light.eot\\’) format(\\”opentype\\”);",
+				"isCorrect": false
+			},
+			{
+				"content": "B. @font-face",
+				"isCorrect": false
+			},
+			{
+				"content": "C. font-family: @import \\”Sansation_Light.eot\\”;",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 2. A navigation bar needs standard HTML as a base  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": true
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 3. The ____________ property specifies the stack order of an element  ",
+		"answer": [
+			{
+				"content": "A. d-index",
+				"isCorrect": false
+			},
+			{
+				"content": "B. s-index",
+				"isCorrect": false
+			},
+			{
+				"content": "C. x-index",
+				"isCorrect": false
+			},
+			{
+				"content": "D. z-index",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 4. What is css Float?  ",
+		"answer": [
+			{
+				"content": "A. allows other elements to wrap around an element",
+				"isCorrect": false
+			},
+			{
+				"content": "B. element can be pushed to the left or right",
+				"isCorrect": false
+			},
+			{
+				"content": "C. both a and b above",
+				"isCorrect": true
+			},
+			{
+				"content": "D. element can be pushed to any direction",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 5. The font-size value can be an absolute, or relative size  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": true
+			},
+			{
+				"content": "B. False",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 6. In CSS, it is not possible to specify different padding for different sides  ",
+		"answer": [
+			{
+				"content": "A. True",
+				"isCorrect": false
+			},
+			{
+				"content": "B. False",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 7. ____________ property specifies an image to use as the background of an element  ",
+		"answer": [
+			{
+				"content": "A. backg-img",
+				"isCorrect": false
+			},
+			{
+				"content": "B. backg-image",
+				"isCorrect": false
+			},
+			{
+				"content": "C. background-img",
+				"isCorrect": false
+			},
+			{
+				"content": "D. background-image",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 8. The _____________ selector is used to specify a style for a single, unique element  ",
+		"answer": [
+			{
+				"content": "A. id",
+				"isCorrect": true
+			},
+			{
+				"content": "B. class",
+				"isCorrect": false
+			},
+			{
+				"content": "C. text",
+				"isCorrect": false
+			},
+			{
+				"content": "D. bit",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 9. Which of the below is the correct way to set a background image?  ",
+		"answer": [
+			{
+				"content": "A. body {background-image:url(paper.gif);}",
+				"isCorrect": false
+			},
+			{
+				"content": "B. body {background-image:url('paper.gif')};",
+				"isCorrect": false
+			},
+			{
+				"content": "C. body {background-image:url('paper.gif')}",
+				"isCorrect": false
+			},
+			{
+				"content": "D. body {background-image:url('paper.gif');}",
+				"isCorrect": true
+			}
+		],
+		"detail": ""
+	},
+	{
+		"question": " 10. Which of the below is the correct way to set a font size?  ",
+		"answer": [
+			{
+				"content": "A. h2 {font-size:200%;}",
+				"isCorrect": false
+			},
+			{
+				"content": "B. h2 {font-size:200px;}",
+				"isCorrect": false
+			},
+			{
+				"content": "C. both a and b above",
+				"isCorrect": true
+			},
+			{
+				"content": "D. h2 {font-size:200;}",
+				"isCorrect": false
+			}
+		],
+		"detail": ""
+	}
+]
